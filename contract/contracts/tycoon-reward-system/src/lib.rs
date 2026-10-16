@@ -241,4 +241,4 @@ impl TycoonRewardSystem {
             .get(&DataKey::UsdcToken)
             .expect("Not initi
 
-/* … truncated 72 chars — edit only what you need near the top … */
+/* … truncated 70 chars — edit only what you need near the top … */
